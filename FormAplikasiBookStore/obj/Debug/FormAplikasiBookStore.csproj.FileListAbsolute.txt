@@ -1,0 +1,391 @@
+D:\Kuliah UBAYA Semester 3\PBD\pbd_27_AplikasiBookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.exe.config
+D:\Kuliah UBAYA Semester 3\PBD\pbd_27_AplikasiBookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.exe
+D:\Kuliah UBAYA Semester 3\PBD\pbd_27_AplikasiBookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.pdb
+D:\Kuliah UBAYA Semester 3\PBD\pbd_27_AplikasiBookStore\FormAplikasiBookStore\bin\Debug\ClassLibraryBookStore.dll
+D:\Kuliah UBAYA Semester 3\PBD\pbd_27_AplikasiBookStore\FormAplikasiBookStore\bin\Debug\MySql.Data.dll
+D:\Kuliah UBAYA Semester 3\PBD\pbd_27_AplikasiBookStore\FormAplikasiBookStore\bin\Debug\ClassLibraryBookStore.pdb
+D:\Kuliah UBAYA Semester 3\PBD\pbd_27_AplikasiBookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csprojAssemblyReference.cache
+D:\Kuliah UBAYA Semester 3\PBD\pbd_27_AplikasiBookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormLogin.resources
+D:\Kuliah UBAYA Semester 3\PBD\pbd_27_AplikasiBookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.Properties.Resources.resources
+D:\Kuliah UBAYA Semester 3\PBD\pbd_27_AplikasiBookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.GenerateResource.cache
+D:\Kuliah UBAYA Semester 3\PBD\pbd_27_AplikasiBookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.CoreCompileInputs.cache
+D:\Kuliah UBAYA Semester 3\PBD\pbd_27_AplikasiBookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.CopyComplete
+D:\Kuliah UBAYA Semester 3\PBD\pbd_27_AplikasiBookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.exe
+D:\Kuliah UBAYA Semester 3\PBD\pbd_27_AplikasiBookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.pdb
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.exe.config
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.exe
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.pdb
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\ClassLibraryBookStore.dll
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\MySql.Data.dll
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\ClassLibraryBookStore.pdb
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csprojAssemblyReference.cache
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.Properties.Resources.resources
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.GenerateResource.cache
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.CoreCompileInputs.cache
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.CopyComplete
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.exe
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.pdb
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormLogin.resources
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormMenu.resources
+D:\PBD Project\Revisi\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.exe.config
+D:\PBD Project\Revisi\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.exe
+D:\PBD Project\Revisi\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.pdb
+D:\PBD Project\Revisi\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\MySql.Data.dll
+D:\PBD Project\Revisi\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\ClassLibraryBookStore.pdb
+D:\PBD Project\Revisi\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csprojAssemblyReference.cache
+D:\PBD Project\Revisi\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListBookType.resources
+D:\PBD Project\Revisi\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormLogin.resources
+D:\PBD Project\Revisi\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormMenu.resources
+D:\PBD Project\Revisi\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.Properties.Resources.resources
+D:\PBD Project\Revisi\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.GenerateResource.cache
+D:\PBD Project\Revisi\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.CoreCompileInputs.cache
+D:\PBD Project\Revisi\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.CopyComplete
+D:\PBD Project\Revisi\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.exe
+D:\PBD Project\Revisi\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.pdb
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddCustomers.resources
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddOfBook.resources
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddOfEmployee.resources
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddSupplier.resources
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddTypeOfBooks.resources
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeBook.resources
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeCustomers.resources
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeEmployee.resources
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeSupplier.resources
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeTypeOfBook.resources
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfBook.resources
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfCustomers.resources
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfEmployee.resources
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfSupplier.resources
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteTypeOfBook.resources
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListBuku.resources
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListCustomers.resources
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListNotaBeli.resources
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListNotaJual.resources
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListPegawai.resources
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListSupplier.resources
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListBookType.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.exe.config
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.exe
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.pdb
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\ClassLibraryBookStore.dll
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\MySql.Data.dll
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\ClassLibraryBookStore.pdb
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csprojAssemblyReference.cache
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddCustomers.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddOfBook.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddOfEmployee.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddSupplier.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddTypeOfBooks.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeBook.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeCustomers.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeEmployee.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeSupplier.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeTypeOfBook.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfBook.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfCustomers.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfEmployee.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfSupplier.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteTypeOfBook.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListBuku.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListCustomers.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListNotaBeli.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListNotaJual.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListPegawai.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListSupplier.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListBookType.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormLogin.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormMenu.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.Properties.Resources.resources
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.GenerateResource.cache
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.CoreCompileInputs.cache
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.CopyComplete
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.exe
+D:\PBD Project\Final\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.pdb
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.exe.config
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.exe
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.pdb
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\ClassLibraryBookStore.dll
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\MySql.Data.dll
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\ClassLibraryBookStore.pdb
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csprojAssemblyReference.cache
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddCustomers.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddOfBook.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddOfEmployee.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddSupplier.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddTypeOfBooks.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeBook.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeCustomers.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeEmployee.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeSupplier.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeTypeOfBook.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfBook.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfCustomers.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfEmployee.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfSupplier.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteTypeOfBook.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListBuku.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListCustomers.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListNotaBeli.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListNotaJual.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListPegawai.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListSupplier.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListBookType.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormLogin.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormMenu.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.Properties.Resources.resources
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.GenerateResource.cache
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.CoreCompileInputs.cache
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.CopyComplete
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.exe
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.pdb
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\Interop.WMPLib.dll
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.ResolveComReference.cache
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\Resources\The Wind and The Star Traveler Genshin Impact.mp3
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\Resources\The Wind and The Star Traveler Genshin Impact.mp3
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.exe.config
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.exe
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.pdb
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\ClassLibraryBookStore.dll
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\MySql.Data.dll
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\ClassLibraryBookStore.pdb
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csprojAssemblyReference.cache
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\Interop.WMPLib.dll
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.ResolveComReference.cache
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddCustomers.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddOfBook.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddOfEmployee.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddSupplier.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddTypeOfBooks.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeBook.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeCustomers.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeEmployee.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeSupplier.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeTypeOfBook.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfBook.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfCustomers.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfEmployee.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfSupplier.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteTypeOfBook.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListBuku.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListCustomers.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListNotaBeli.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListNotaJual.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListPegawai.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListSupplier.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListBookType.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormLogin.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormMenu.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.Properties.Resources.resources
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.GenerateResource.cache
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.CopyComplete
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.exe
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.pdb
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csprojAssemblyReference.cache
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\Interop.WMPLib.dll
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.ResolveComReference.cache
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddCustomers.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddOfBook.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddOfEmployee.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddSupplier.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddTypeOfBooks.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeBook.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeCustomers.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeEmployee.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeSupplier.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeTypeOfBook.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfBook.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfCustomers.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfEmployee.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfSupplier.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteTypeOfBook.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListBuku.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListCustomers.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListNotaBeli.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListNotaJual.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListPegawai.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListSupplier.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListBookType.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormLogin.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormMenu.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.Properties.Resources.resources
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.GenerateResource.cache
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.CoreCompileInputs.cache
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.exe
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.pdb
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\Resources\The Wind and The Star Traveler Genshin Impact.mp3
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.exe.config
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.exe
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.pdb
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\ClassLibraryBookStore.dll
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\MySql.Data.dll
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\ClassLibraryBookStore.pdb
+D:\Project UAS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.CopyComplete
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\Resources\The Wind and The Star Traveler Genshin Impact.mp3
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.exe.config
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.exe
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.pdb
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\ClassLibraryBookStore.dll
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\MySql.Data.dll
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\ClassLibraryBookStore.pdb
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csprojAssemblyReference.cache
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\Interop.WMPLib.dll
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.ResolveComReference.cache
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddCustomers.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddOfBook.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddOfEmployee.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddSupplier.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddTypeOfBooks.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeBook.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeCustomers.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeEmployee.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeSupplier.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeTypeOfBook.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfBook.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfCustomers.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfEmployee.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfSupplier.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteTypeOfBook.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListBuku.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListCustomers.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListNotaBeli.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListNotaJual.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListPegawai.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListSupplier.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListBookType.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormLogin.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormMenu.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.Properties.Resources.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.GenerateResource.cache
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.CopyComplete
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.exe
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.pdb
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddPurchaseBill.resources
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddSellBill.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\Resources\The Wind and The Star Traveler Genshin Impact.mp3
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.exe.config
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.exe
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.pdb
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\ClassLibraryBookStore.dll
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\MySql.Data.dll
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\ClassLibraryBookStore.pdb
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csprojAssemblyReference.cache
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\Interop.WMPLib.dll
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.ResolveComReference.cache
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddCustomers.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddOfBook.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddOfEmployee.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddPurchaseBill.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddSellBill.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddSupplier.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddTypeOfBooks.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeBook.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeCustomers.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeEmployee.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeSupplier.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeTypeOfBook.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfBook.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfCustomers.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfEmployee.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfSupplier.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteTypeOfBook.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListBuku.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListCustomers.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListNotaBeli.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListNotaJual.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListPegawai.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListSupplier.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListBookType.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormLogin.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormMenu.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.Properties.Resources.resources
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.GenerateResource.cache
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.CoreCompileInputs.cache
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.CopyComplete
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.exe
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.pdb
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csprojAssemblyReference.cache
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\Interop.WMPLib.dll
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.ResolveComReference.cache
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.exe
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.pdb
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\Resources\The Wind and The Star Traveler Genshin Impact.mp3
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.exe.config
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.exe
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.pdb
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\ClassLibraryBookStore.dll
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\MySql.Data.dll
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\ClassLibraryBookStore.pdb
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddCustomers.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddOfBook.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddOfEmployee.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddPurchaseBill.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddSellBill.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddSupplier.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddTypeOfBooks.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeBook.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeCustomers.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeEmployee.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeSupplier.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeTypeOfBook.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfBook.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfCustomers.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfEmployee.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfSupplier.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteTypeOfBook.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListBuku.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListCustomers.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListNotaBeli.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListNotaJual.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListPegawai.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListSupplier.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListBookType.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormLogin.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormMenu.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.Properties.Resources.resources
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.GenerateResource.cache
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.CoreCompileInputs.cache
+C:\Users\EZYPZY\Desktop\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.CopyComplete
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\Resources\The Wind and The Star Traveler Genshin Impact.mp3
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.exe.config
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.exe
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\FormAplikasiBookStore.pdb
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\ClassLibraryBookStore.dll
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\MySql.Data.dll
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\bin\Debug\ClassLibraryBookStore.pdb
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csprojAssemblyReference.cache
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\Interop.WMPLib.dll
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.ResolveComReference.cache
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddCustomers.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddOfBook.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddOfEmployee.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddPurchaseBill.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddSellBill.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddSupplier.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormAddTypeOfBooks.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeBook.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeCustomers.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeEmployee.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeSupplier.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormChangeTypeOfBook.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfBook.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfCustomers.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfEmployee.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteOfSupplier.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormDeleteTypeOfBook.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListBuku.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListCustomers.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListNotaBeli.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListNotaJual.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListPegawai.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListSupplier.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormListBookType.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormLogin.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.FormMenu.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.Properties.Resources.resources
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.GenerateResource.cache
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.CoreCompileInputs.cache
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.csproj.CopyComplete
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.exe
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\FormAplikasiBookStore\obj\Debug\FormAplikasiBookStore.pdb

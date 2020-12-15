@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassLibraryBookStore.TipeBuku">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACMAIAAgAAAAAAAQAAQAAAAQAAAAAAAQ=</HashCode>
+      <FileName>TipeBuku.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryBookStore.Buku">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAMAIAAAAQAhKAEQISwAEAAQEAAAAAAA=</HashCode>
+      <FileName>Buku.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="TipeBuku" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ClassLibraryBookStore.NotaJualDetil">
+    <Position X="4.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAEAAAAAAAAAAAQgAAAEIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NotaJualDetil.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Buku" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ClassLibraryBookStore.Customers">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAAAACAMAIAAAAQAAAAEAAAQIAAAQCAAAEAAA=</HashCode>
+      <FileName>Customers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryBookStore.NotaJual">
+    <Position X="2.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAMAAEADAAABAQAAABAAAAAAAAAAAAEAAAQBAAABAAA=</HashCode>
+      <FileName>NotaJual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryBookStore.Jabatan">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAgAAAAAAIAAAAAAAAAAAAAAAAQAAAAEAAAAAAA=</HashCode>
+      <FileName>Jabatan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryBookStore.Pegawai">
+    <Position X="8.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAARgAAMAIAQAAQAEAAcACAQKCAgQDAgBAIQA=</HashCode>
+      <FileName>Pegawai.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Jabatan" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ClassLibraryBookStore.NotaBeli">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAQEACAAABAIAAAACAgAAAAAAAAIEAAASBAAIAAAA=</HashCode>
+      <FileName>NotaBeli.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="pegawai" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ClassLibraryBookStore.NotaBeliDetil">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAEAAAAAAAAAAAQgAAAEIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NotaBeliDetil.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Buku" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ClassLibraryBookStore.Penerbit">
+    <Position X="4.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAIAAAAAQAAAAAAAEAAAABAAQAAAAAQA=</HashCode>
+      <FileName>Penerbit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryBookStore.Penulis">
+    <Position X="6.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Penulis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

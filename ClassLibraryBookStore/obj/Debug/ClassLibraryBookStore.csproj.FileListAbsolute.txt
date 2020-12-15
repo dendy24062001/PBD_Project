@@ -1,0 +1,63 @@
+D:\Kuliah UBAYA Semester 3\PBD\pbd_27_AplikasiBookStore\ClassLibraryBookStore\bin\Debug\ClassLibraryBookStore.dll
+D:\Kuliah UBAYA Semester 3\PBD\pbd_27_AplikasiBookStore\ClassLibraryBookStore\bin\Debug\ClassLibraryBookStore.pdb
+D:\Kuliah UBAYA Semester 3\PBD\pbd_27_AplikasiBookStore\ClassLibraryBookStore\bin\Debug\MySql.Data.dll
+D:\Kuliah UBAYA Semester 3\PBD\pbd_27_AplikasiBookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csprojAssemblyReference.cache
+D:\Kuliah UBAYA Semester 3\PBD\pbd_27_AplikasiBookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csproj.CoreCompileInputs.cache
+D:\Kuliah UBAYA Semester 3\PBD\pbd_27_AplikasiBookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csproj.CopyComplete
+D:\Kuliah UBAYA Semester 3\PBD\pbd_27_AplikasiBookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.dll
+D:\Kuliah UBAYA Semester 3\PBD\pbd_27_AplikasiBookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.pdb
+D:\PBD Project\Revisi\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csproj.CoreCompileInputs.cache
+D:\PBD Project\Revisi\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.dll
+D:\PBD Project\Revisi\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.pdb
+D:\PBD Project\Revisi\pbd_27_SibookStore\ClassLibraryBookStore\bin\Debug\ClassLibraryBookStore.dll
+D:\PBD Project\Revisi\pbd_27_SibookStore\ClassLibraryBookStore\bin\Debug\ClassLibraryBookStore.pdb
+D:\PBD Project\Revisi\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csproj.CopyComplete
+D:\PBD Project\Revisi\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csprojAssemblyReference.cache
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\ClassLibraryBookStore\bin\Debug\ClassLibraryBookStore.dll
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\ClassLibraryBookStore\bin\Debug\ClassLibraryBookStore.pdb
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\ClassLibraryBookStore\bin\Debug\MySql.Data.dll
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csprojAssemblyReference.cache
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csproj.CoreCompileInputs.cache
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csproj.CopyComplete
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.dll
+C:\Users\EZYPZY\Desktop\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.pdb
+D:\PBD Project\Final\pbd_27_SibookStore\ClassLibraryBookStore\bin\Debug\ClassLibraryBookStore.dll
+D:\PBD Project\Final\pbd_27_SibookStore\ClassLibraryBookStore\bin\Debug\ClassLibraryBookStore.pdb
+D:\PBD Project\Final\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csprojAssemblyReference.cache
+D:\PBD Project\Final\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csproj.CoreCompileInputs.cache
+D:\PBD Project\Final\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csproj.CopyComplete
+D:\PBD Project\Final\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.dll
+D:\PBD Project\Final\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.pdb
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\ClassLibraryBookStore\bin\Debug\ClassLibraryBookStore.dll
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\ClassLibraryBookStore\bin\Debug\ClassLibraryBookStore.pdb
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csproj.CoreCompileInputs.cache
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csproj.CopyComplete
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.dll
+D:\PBD Project\Final\PBD Project\PBD Project\Form\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.pdb
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\ClassLibraryBookStore\bin\Debug\ClassLibraryBookStore.dll
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\ClassLibraryBookStore\bin\Debug\ClassLibraryBookStore.pdb
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csprojAssemblyReference.cache
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csproj.CopyComplete
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.dll
+D:\KULIAH\Semester 3\PBD\project\Final\pbd_27_SibookStore\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.pdb
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\ClassLibraryBookStore\bin\Debug\ClassLibraryBookStore.dll
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\ClassLibraryBookStore\bin\Debug\ClassLibraryBookStore.pdb
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csproj.CopyComplete
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.dll
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.pdb
+D:\KULIAH\Semester 3\PBD\project\uuas\ProjectUAS\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csprojAssemblyReference.cache
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\ClassLibraryBookStore\bin\Debug\ClassLibraryBookStore.dll
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\ClassLibraryBookStore\bin\Debug\ClassLibraryBookStore.pdb
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csprojAssemblyReference.cache
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csproj.CoreCompileInputs.cache
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csproj.CopyComplete
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.dll
+D:\PBD UASS\ProjectUAS\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.pdb
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\ClassLibraryBookStore\bin\Debug\ClassLibraryBookStore.dll
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\ClassLibraryBookStore\bin\Debug\ClassLibraryBookStore.pdb
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csproj.CoreCompileInputs.cache
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.csproj.CopyComplete
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.dll
+D:\PBDDD\ProjectUAS\pbd_27_SibookStore\ClassLibraryBookStore\obj\Debug\ClassLibraryBookStore.pdb

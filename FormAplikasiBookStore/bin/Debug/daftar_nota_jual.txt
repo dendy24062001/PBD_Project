@@ -1,0 +1,25 @@
+
+TOKO MAJU MAKMUR UNTUNG SELALU
+Jl. Raya Kalirungkut Surabaya
+Telp. (031) - 12345678
+==================================================
+No.Nota : 20201201001
+Tanggal : 12/1/2020 12:00:00 AM
+
+Pelanggan : Naruto
+Alamat : Surabaya
+
+Kasir : starif
+
+Jenis PembayaranCash
+==================================================
+Hujan Bulan juli              
+3  
+10,000 
+30,000    
+
+==================================================
+TOTAL : 30,000
+==================================================
+Terima Kasih atas Kunjungan Anda
+
